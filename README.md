@@ -75,22 +75,6 @@ Sonuçlar, CNN tabanlı yaklaşımların görüntü sınıflandırma problemleri
 
 ---
 
-## 📁 Proje Yapısı
-
-cicek-siniflandirma-projesi/
-│
-├── main.py
-├── README.md
-├── flower_photos/
-│ ├── daisy/
-│ ├── dandelion/
-│ ├── rose/
-│ ├── sunflower/
-│ └── tulip/
-
-
----
-
 ## 🚀 Çalıştırma
 
 1. Gerekli kütüphaneleri yükleyin:
